@@ -1,0 +1,17 @@
+E:\PRN211\Assigment-2-1\Assignment-2-2\bin\Debug\net6.0-windows\Assignment-2-2.exe
+E:\PRN211\Assigment-2-1\Assignment-2-2\bin\Debug\net6.0-windows\Assignment-2-2.deps.json
+E:\PRN211\Assigment-2-1\Assignment-2-2\bin\Debug\net6.0-windows\Assignment-2-2.runtimeconfig.json
+E:\PRN211\Assigment-2-1\Assignment-2-2\bin\Debug\net6.0-windows\Assignment-2-2.dll
+E:\PRN211\Assigment-2-1\Assignment-2-2\bin\Debug\net6.0-windows\Assignment-2-2.pdb
+E:\PRN211\Assigment-2-1\Assignment-2-2\obj\Debug\net6.0-windows\Assignment-2-2.csproj.AssemblyReference.cache
+E:\PRN211\Assigment-2-1\Assignment-2-2\obj\Debug\net6.0-windows\Assignment_2_2.Form1.resources
+E:\PRN211\Assigment-2-1\Assignment-2-2\obj\Debug\net6.0-windows\Assignment-2-2.csproj.GenerateResource.cache
+E:\PRN211\Assigment-2-1\Assignment-2-2\obj\Debug\net6.0-windows\Assignment-2-2.GeneratedMSBuildEditorConfig.editorconfig
+E:\PRN211\Assigment-2-1\Assignment-2-2\obj\Debug\net6.0-windows\Assignment-2-2.AssemblyInfoInputs.cache
+E:\PRN211\Assigment-2-1\Assignment-2-2\obj\Debug\net6.0-windows\Assignment-2-2.AssemblyInfo.cs
+E:\PRN211\Assigment-2-1\Assignment-2-2\obj\Debug\net6.0-windows\Assignment-2-2.csproj.CoreCompileInputs.cache
+E:\PRN211\Assigment-2-1\Assignment-2-2\obj\Debug\net6.0-windows\Assignment-2-2.dll
+E:\PRN211\Assigment-2-1\Assignment-2-2\obj\Debug\net6.0-windows\refint\Assignment-2-2.dll
+E:\PRN211\Assigment-2-1\Assignment-2-2\obj\Debug\net6.0-windows\Assignment-2-2.pdb
+E:\PRN211\Assigment-2-1\Assignment-2-2\obj\Debug\net6.0-windows\Assignment-2-2.genruntimeconfig.cache
+E:\PRN211\Assigment-2-1\Assignment-2-2\obj\Debug\net6.0-windows\ref\Assignment-2-2.dll
