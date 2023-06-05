@@ -44,6 +44,7 @@
             buttonClear = new Button();
             txtAccessLog = new Label();
             lbxAccessLog = new ListBox();
+            buttonDel = new Button();
             SuspendLayout();
             // 
             // lblSercurityCode
@@ -219,11 +220,25 @@
             lbxAccessLog.Size = new Size(218, 109);
             lbxAccessLog.TabIndex = 16;
             // 
+            // buttonDel
+            // 
+            buttonDel.BackColor = Color.FromArgb(255, 128, 0);
+            buttonDel.Font = new Font("Segoe UI", 9F, FontStyle.Bold, GraphicsUnit.Point);
+            buttonDel.ForeColor = Color.Lime;
+            buttonDel.Location = new Point(255, 90);
+            buttonDel.Name = "buttonDel";
+            buttonDel.Size = new Size(35, 35);
+            buttonDel.TabIndex = 17;
+            buttonDel.Text = "Del";
+            buttonDel.UseVisualStyleBackColor = false;
+            buttonDel.Click += buttonDel_Click;
+            // 
             // Form1
             // 
             AutoScaleDimensions = new SizeF(7F, 15F);
             AutoScaleMode = AutoScaleMode.Font;
             ClientSize = new Size(314, 430);
+            Controls.Add(buttonDel);
             Controls.Add(lbxAccessLog);
             Controls.Add(txtAccessLog);
             Controls.Add(buttonClear);
@@ -264,5 +279,6 @@
         private Button buttonClear;
         private Label txtAccessLog;
         private ListBox lbxAccessLog;
+        private Button buttonDel;
     }
 }

@@ -83,6 +83,7 @@
             txtLunarYear.Name = "txtLunarYear";
             txtLunarYear.Size = new Size(100, 23);
             txtLunarYear.TabIndex = 10;
+            txtLunarYear.TextChanged += txtLunarYear_TextChanged;
             txtLunarYear.Enter += txtLunarYear_Enter;
             txtLunarYear.Leave += txtLunarYear_Leave;
             // 

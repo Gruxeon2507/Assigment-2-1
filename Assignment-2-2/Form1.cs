@@ -44,5 +44,14 @@ namespace Assignment_2_2
             }
             txtSecurityCode.Text = "";
         }
+
+        private void buttonDel_Click(object sender, EventArgs e)
+        {
+            if(txtSecurityCode.Text.Length > 0)
+            {
+                txtSecurityCode.Text = txtSecurityCode.Text.Substring(0, txtSecurityCode.Text.Length - 1);
+
+            }
+        }
     }
 }

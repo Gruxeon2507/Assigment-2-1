@@ -74,6 +74,7 @@
             txtName.Name = "txtName";
             txtName.Size = new Size(174, 23);
             txtName.TabIndex = 2;
+            txtName.TextChanged += txtName_TextChanged;
             // 
             // chkClean
             // 
@@ -84,6 +85,7 @@
             chkClean.TabIndex = 3;
             chkClean.Text = "Cạo vôi";
             chkClean.UseVisualStyleBackColor = true;
+            chkClean.CheckedChanged += chkClean_CheckedChanged;
             // 
             // lblCleanCost
             // 
@@ -113,6 +115,7 @@
             chkWhitening.TabIndex = 5;
             chkWhitening.Text = "Tẩy trắng";
             chkWhitening.UseVisualStyleBackColor = true;
+            chkWhitening.CheckedChanged += chkWhitening_CheckedChanged;
             // 
             // lblXRayCost
             // 
@@ -132,6 +135,7 @@
             chkXray.TabIndex = 7;
             chkXray.Text = "Chụp Hình Răng";
             chkXray.UseVisualStyleBackColor = true;
+            chkXray.CheckedChanged += chkXray_CheckedChanged;
             // 
             // numFilling
             // 
